@@ -1,0 +1,27 @@
+/* .card:hover{
+    transform: scale(1.2);
+    transition: 1.5s;
+    opacity: 0.5;
+} */
+#col{
+    background-color: rgb(104, 104, 243);
+    color: white;
+    border-radius: 30px;
+}
+/* #hot{
+    margin-right: 10px;
+} */
+#accordionPanelsStayOpenExample{
+    width: 30%;
+}
+#container{
+    width: 30%;
+}
+#accordionFlushExample{
+    width: 50%;
+    
+    font-weight: 700;
+}
+.img img{
+    width: 150px;
+}
